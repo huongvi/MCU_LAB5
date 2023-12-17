@@ -48,6 +48,12 @@ extern "C" {
 /* Exported macro ------------------------------------------------------------*/
 /* USER CODE BEGIN EM */
 
+ADC_HandleTypeDef hadc1;
+
+TIM_HandleTypeDef htim2;
+
+UART_HandleTypeDef huart2;
+
 /* USER CODE END EM */
 
 /* Exported functions prototypes ---------------------------------------------*/
